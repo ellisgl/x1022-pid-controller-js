@@ -5,10 +5,10 @@
   "author": {
     "name": "Kenneth McCall"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellisgl/x1022-pid-controller.git"
+    "url": "https://github.com/ellisgl/x1022-pid-controller-js.git"
   },
   "bugs": {
     "url": "https://github.com/ellisgl/x1022-pid-controller/issues"
@@ -18,5 +18,8 @@
       "type": "MIT",
       "url": "https://github.com/ellisgl/x1022-pid-controller/raw/master/LICENSE"
     }
-  ]
+  ],
+  "dependencies": {
+    "node.extend": "^1.0.9"
+  }
 }

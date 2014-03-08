@@ -1,5 +1,8 @@
 PID Controller for Node.JS based on the Arduino PID library.
 
+*Install*
+npm install x1022-pid-controller-js
+
 *Really Basic Usage:*
 
 ```

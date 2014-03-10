@@ -21,7 +21,8 @@ pCtrl.setInput(function()
 
 pCtrl.setOutput(function(val)
 {
-    global.oCtrl.set(val);
+    // Set port PWM port 10 to val.
+    global.arduino.set(10, val);
 });
 
 pCtrl.start();

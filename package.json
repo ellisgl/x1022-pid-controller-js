@@ -1,11 +1,11 @@
 {
   "name": "x1022-pid-controller-js",
-  "description": "PID Controller for Node.JS. Based on the https://github.com/steve71/RasPiBrew & http://www.embedded.com/design/configurable-systems/4212241/Case-Study-of-PID-Control-in-an-FPGA-",
+  "description": "PID Controller for Node.JS. Based on the https://github.com/steve71/RasPiBrew & http://www.embedded.com/design/configurable-systems/4212241/Case-Study-of-PID-Control-in-an-FPGA- & http://www.vandelogt.nl/htm/regelen_pid_uk.htm",
   "main": "./lib/index",
   "author": {
     "name": "Kenneth McCall"
   },
-  "version": "1.0.5",
+  "version": "1.0.6",
   "repository": {
     "type": "git",
     "url": "https://github.com/ellisgl/x1022-pid-controller-js.git"
